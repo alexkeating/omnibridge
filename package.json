@@ -8,6 +8,7 @@
     "yarn"
   ],
   "private": true,
+  "root": "packages/react-app",
   "scripts": {
     "subgraph:auth": "yarn workspace @omnibridge/subgraph auth",
     "subgraph:codegen": "yarn workspace @omnibridge/subgraph codegen",
